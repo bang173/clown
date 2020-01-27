@@ -18,4 +18,4 @@ async def clown(ctx):
 async def mute(ctx, member: discord.Member):
     mute_role = discord.utils.get(ctx.message.guild.roles, name= "Mute")
     await member.add_roles(mute_role)
-Bot.run(open('token.txt', 'r').readline())
+Bot.run(open(NjcwNzA3MDk2MTkwMTg5NjE3.Xi7Riw.Mc_GLHzqteZo4Y49nZNsvae1cP0)
