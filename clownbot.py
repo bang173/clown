@@ -257,4 +257,4 @@ async def change_status():
 
 token = os.environ.get('BOT_TOKEN')
 
-client.run(str(token))
+client.run(token)
